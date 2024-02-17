@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/dream_playground/META"
+  "_build/install/default/lib/dream_playground/dune-package"
+  "_build/install/default/lib/dream_playground/opam"
+]
+bin: [
+  "_build/install/default/bin/main"
+]
