@@ -1,1 +1,1 @@
-src/template.ml: Buffer Dream Dream_pure Printf
+src/template.ml: Buffer Dream_pure Printf
