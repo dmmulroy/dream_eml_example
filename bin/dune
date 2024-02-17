@@ -1,7 +1,7 @@
 (executable
  (public_name main)
  (name main)
- (libraries dream_playground dream))
+ (libraries dream))
 
 (rule
  (targets template.ml)
